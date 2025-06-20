@@ -1,0 +1,8 @@
+numpy
+dagshub
+lightgbm
+scikit-learn
+mlflow
+pandas
+dvc
+joblib
